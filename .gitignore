@@ -1,0 +1,13 @@
+# Exceutable
+battleship
+
+# Mac files
+*.dSYM/
+.DS_Store
+
+# Program files
+*.a
+*.o
+
+# Unwanted files
+*.pdf
