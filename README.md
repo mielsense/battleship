@@ -17,7 +17,7 @@
 <p align="center">a sumple battleship game written in c using signals 🚥</p>
 
 <div align="center">
-  <img height="400" src="https://i.ibb.co/3fyN9hb/Screenshot-2023-04-12-at-16-13-32.png"  />
+  <img height="400" src="https://i.ibb.co/fFwgnVX/yeah.png"  />
 </div>
 
 <br>
