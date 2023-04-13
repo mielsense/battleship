@@ -78,6 +78,7 @@
 <h3 align="center">Author 🫂</h3>
 <div align="center">
   <a href="https://github.com/underhoney">@mathis</a> <br>
+  <a href="https://github.com/tvianney">@vianney</a> <br>
   <br>
   
   Please do note this project was made as an Epitech project and as such has to follow its coding style <br>
